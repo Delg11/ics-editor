@@ -27,7 +27,7 @@ cd ics-editor
 A ferramenta utiliza bibliotecas populares de manipulação de dados e interfaces web. Execute o comando:
 
 ```bash
-pip install pandas icalendar gradio
+pip install -r requirements.txt
 ```
 
 **3. Inicie o aplicativo:**
